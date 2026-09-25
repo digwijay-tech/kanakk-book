@@ -48,3 +48,4 @@ firebase-debug.*.log
 # AI Rules
 AGENTS.md
 CLAUDE.md
+firebase.js
